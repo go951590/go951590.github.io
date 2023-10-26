@@ -10,8 +10,28 @@
         </author>
         <description></description>
         <language>en</language>
-        <pubDate>Wed, 25 Oct 2023 23:52:07 +0800</pubDate>
-        <lastBuildDate>Wed, 25 Oct 2023 23:52:07 +0800</lastBuildDate>
+        <pubDate>Thu, 26 Oct 2023 21:01:15 +0800</pubDate>
+        <lastBuildDate>Thu, 26 Oct 2023 21:01:15 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/10/26/1234/</guid>
+            <title>1234</title>
+            <link>http://example.com/2023/10/26/1234/</link>
+            <pubDate>Thu, 26 Oct 2023 21:01:15 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/10/26/testtest/</guid>
+            <title>Hello World</title>
+            <link>http://example.com/2023/10/26/testtest/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
+            <category term="C++" scheme="http://example.com/categories/computer-science/cpp/" />
+            <category term="郑莉老师C++语言程序设计" scheme="http://example.com/categories/computer-science/cpp/course-1/" />
+            <category term="文章标签1" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
+            <category term="文章标签2" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
+            <pubDate>Thu, 26 Oct 2023 20:36:01 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2023/10/25/computer-science/cpp/course-1/testtest/</guid>
             <title>Hello World</title>
