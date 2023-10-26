@@ -29,17 +29,4 @@
         <content type="html"></content>
         <updated>2023-10-26T13:01:15.000Z</updated>
     </entry>
-    <entry>
-        <id>http://example.com/2023/10/26/testtest/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2023/10/26/testtest/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-</content>
-        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-        <category term="C++" scheme="http://example.com/categories/computer-science/cpp/" />
-        <category term="郑莉老师C++语言程序设计" scheme="http://example.com/categories/computer-science/cpp/course-1/" />
-        <category term="文章标签1" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
-        <category term="文章标签2" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
-        <updated>2023-10-26T12:36:01.814Z</updated>
-    </entry>
 </feed>
