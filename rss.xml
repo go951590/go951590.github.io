@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title></title>
+        <title>Kent</title>
         <subtitle></subtitle>
-        <icon>http://example.com/assets/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://go951590.github.io/assets/favicon.ico</icon>
+        <link>https://go951590.github.io</link>
         <author>
-          <name>邦邦</name>
+          <name>Kent</name>
         </author>
         <description></description>
         <language>zh-TW</language>
         <pubDate>Fri, 19 Jan 2024 02:13:51 +0800</pubDate>
         <lastBuildDate>Fri, 19 Jan 2024 02:13:51 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2024/01/19/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-1/</guid>
+            <guid isPermalink="true">https://go951590.github.io/2024/01/19/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-1/</guid>
             <title>2D高互動遊戲開發日誌#1</title>
-            <link>http://example.com/2024/01/19/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-1/</link>
-            <category term="2D高互動遊戲開發日誌" scheme="http://example.com/tags/2D%E9%AB%98%E4%BA%92%E5%8B%95%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/" />
+            <link>https://go951590.github.io/2024/01/19/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-1/</link>
+            <category term="2D高互動遊戲開發日誌" scheme="https://go951590.github.io/tags/2D%E9%AB%98%E4%BA%92%E5%8B%95%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/" />
             <pubDate>Fri, 19 Jan 2024 02:13:51 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;大家好，我們是一個小團隊，畢業專題預計要做一款 2D 橫向卷軸的高互動單機遊戲，我們的期望是可以做到打破第四道牆的效果，給玩家一個有別於傳統 2 橫向卷軸的遊戲體驗，遊戲暫定叫「project W」，從今天開始會不定時上傳我們的開發日誌，我們使用 Unity 來開發這個遊戲的。&lt;/p&gt;
 &lt;p&gt;目前進度，我們先找一些網路上的教學，先把基本動作與近戰遠程攻擊做出來，一開始遇到的狀況是斜坡無法使用 tilemap 製作，因此我們後來把斜坡這個場地物件單獨一個物件一個物件拉出來，使用 Polygon 單獨拉它們的 hitbox，缺點是要一直手動拉有點麻煩。&lt;/p&gt;
