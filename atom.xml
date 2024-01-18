@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Hexo</title>
+    <title></title>
     <subtitle></subtitle>
     <icon>http://example.com/assets/favicon.ico</icon>
     <link href="http://example.com" />
@@ -13,7 +13,16 @@
         <id>http://example.com/2024/01/19/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-1/</id>
         <title>2D高互動遊戲開發日誌#1</title>
         <link rel="alternate" href="http://example.com/2024/01/19/%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-1/"/>
-        <content type="html"></content>
+        <content type="html">&lt;p&gt;大家好，我們是一個小團隊，畢業專題預計要做一款 2D 橫向卷軸的高互動單機遊戲，我們的期望是可以做到打破第四道牆的效果，給玩家一個有別於傳統 2 橫向卷軸的遊戲體驗，遊戲暫定叫「project W」，從今天開始會不定時上傳我們的開發日誌，我們使用 Unity 來開發這個遊戲的。&lt;/p&gt;
+&lt;p&gt;目前進度，我們先找一些網路上的教學，先把基本動作與近戰遠程攻擊做出來，一開始遇到的狀況是斜坡無法使用 tilemap 製作，因此我們後來把斜坡這個場地物件單獨一個物件一個物件拉出來，使用 Polygon 單獨拉它們的 hitbox，缺點是要一直手動拉有點麻煩。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%96%9C%E5%9D%A1.png&#34; alt=&#34;斜坡&#34;&gt;&lt;/p&gt;
+&lt;p&gt;後來在做近戰武器的時候也遇到了一些小狀況，但由於我們是使用大型插件 corgi engine，直接找官方的文檔，後來發現是一些 target layer mask 設定沒有設定好，也就是沒有設定這個武器可以破壞誰，抱歉我在耍笨 QQ&lt;/p&gt;
+&lt;p&gt;不過接下來還有近戰武器的圖還沒有設置好，導致無法隨著角色的方向調整，看起來超怪，還有武器動畫、音效等都還沒有做好。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;weapon.png&#34; alt=&#34;武器&#34;&gt;&lt;/p&gt;
+&lt;p&gt;另外美術的部分也暫時從網路上抓免費的下來用，我們原本預計是要做賽博龐克的世界觀，因此目前美術只是暫時用來 Demo 功能的 XDDD&lt;/p&gt;
+&lt;p&gt;我是團隊中擔任程式開發以及專案管理的邦邦&lt;/p&gt;
+&lt;p&gt;by 邦邦&lt;/p&gt;
+</content>
         <category term="2D高互動遊戲開發日誌" scheme="http://example.com/tags/2D%E9%AB%98%E4%BA%92%E5%8B%95%E9%81%8A%E6%88%B2%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C/" />
         <updated>2024-01-18T18:13:51.000Z</updated>
     </entry>
